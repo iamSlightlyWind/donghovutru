@@ -110,9 +110,7 @@ package:com.samsung.android.shealthmonitor
 package:com.samsung.android.watch.watchface.aremoji
 package:com.android.managedprovisioning
 package:com.samsung.android.watch.watchface.analogmodular
-package:com.spotify.music
 package:com.android.soundpicker
-package:com.sec.android.app.sbrowser
 package:com.monotype.android.font.chococooky
 package:com.samsung.android.watch.watchface.emergency
 package:com.samsung.android.watch.watchface.simpleanalogue
@@ -179,3 +177,4 @@ package:com.android.captiveportallogin
 package:com.google.android.wearable.frameworkpackagestubs
 package:com.samsung.android.watch.watchface.tickingsound
 package:com.samsung.android.mcfds
+package:com.google.android.inputmethod.latin
