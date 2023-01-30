@@ -16,7 +16,6 @@ package:com.samsung.android.watch.watchface.weather
 package:com.skms.android.agent
 package:com.samsung.android.wear.shealth
 package:com.samsung.android.incallui
-package:com.samsung.sree
 package:com.samsung.android.watch.budscontroller
 package:com.sec.usbsettings
 package:com.samsung.android.watch.watchface.premiumanalog
@@ -25,7 +24,6 @@ package:com.samsung.android.watch.watchface.myphoto
 package:com.samsung.android.watch.watchface.mystyle
 package:com.android.providers.downloads
 package:com.samsung.android.video.wearable
-package:com.google.android.apps.messaging
 package:com.android.networkstack.inprocess
 package:com.google.android.networkstack.tethering.overlay
 package:com.samsung.android.storage.watchstoragemanager
@@ -63,11 +61,9 @@ package:com.samsung.android.app.telephonyui
 package:com.android.statementservice
 package:com.samsung.android.wear.musictransfer
 package:com.samsung.android.watch.watchface.basicclock
-package:com.samsung.android.bixby.agent
 package:com.sec.android.app.hwmoduletest
 package:com.sec.bcservice
 package:com.monotype.android.font.samsungone
-package:com.microsoft.office.outlook
 package:com.google.android.permissioncontroller
 package:com.android.wearable.resources
 package:com.sec.android.app.servicemodeapp
@@ -76,7 +72,6 @@ package:com.android.providers.settings
 package:com.samsung.accessibility
 package:com.sec.imsservice
 package:com.samsung.android.service.health
-package:com.samsung.sree.countdown
 package:com.google.android.apps.wearable.systemui
 package:com.samsung.android.watch.watchface.dualwatch
 package:com.android.se
@@ -90,7 +85,6 @@ package:com.samsung.android.watch.watchface.typography
 package:com.samsung.android.watch.watchface.large
 package:com.samsung.android.watch.watchface.animal
 package:com.google.android.apps.maps
-package:com.samsung.sree.classic
 package:com.samsung.advp.imssettings
 package:com.samsung.android.watch.alarm
 package:com.samsung.android.mdecservice
@@ -116,9 +110,10 @@ package:com.samsung.android.shealthmonitor
 package:com.samsung.android.watch.watchface.aremoji
 package:com.android.managedprovisioning
 package:com.samsung.android.watch.watchface.analogmodular
+package:com.spotify.music
 package:com.android.soundpicker
+package:com.sec.android.app.sbrowser
 package:com.monotype.android.font.chococooky
-package:com.samsung.sree.spin
 package:com.samsung.android.watch.watchface.emergency
 package:com.samsung.android.watch.watchface.simpleanalogue
 package:com.samsung.android.dialer
@@ -130,7 +125,6 @@ package:com.sem.factoryapp
 package:com.samsung.android.wear.calculator
 package:com.samsung.android.watch.stopwatch
 package:com.google.android.wearable.healthservices
-package:com.samsung.sree.digital
 package:com.samsung.android.wear.voicerecorder
 package:com.samsung.wear.contacts.sync
 package:com.google.android.apps.wearable.retailattractloop
@@ -138,7 +132,6 @@ package:com.sec.android.soagent
 package:com.google.android.wearable.assistant
 package:com.samsung.android.wearable.music
 package:com.samsung.android.wearable.sysui
-package:com.samsung.android.bixby.wakeup
 package:com.samsung.android.watch.watchface.bespoke
 package:com.samsung.android.honeyboard
 package:com.samsung.android.scloud
