@@ -1,9 +1,9 @@
-pm uninstall -k --user 0 com.samsung.sree
-pm uninstall -k --user 0 com.samsung.sree.countdown
-pm uninstall -k --user 0 com.samsung.sree.classic
-pm uninstall -k --user 0 com.samsung.sree.spin
-pm uninstall -k --user 0 com.samsung.sree.digital
-pm uninstall -k --user 0 com.microsoft.office.outlook
-pm uninstall -k --user 0 com.google.android.apps.messaging
-pm uninstall -k --user 0 com.samsung.android.bixby.agent
-pm uninstall -k --user 0 com.samsung.android.bixby.wakeup
+adb shell pm uninstall -k --user 0 com.samsung.sree
+adb shell pm uninstall -k --user 0 com.samsung.sree.countdown
+adb shell pm uninstall -k --user 0 com.samsung.sree.classic
+adb shell pm uninstall -k --user 0 com.samsung.sree.spin
+adb shell pm uninstall -k --user 0 com.samsung.sree.digital
+adb shell pm uninstall -k --user 0 com.microsoft.office.outlook
+adb shell pm uninstall -k --user 0 com.google.android.apps.messaging
+adb shell pm uninstall -k --user 0 com.samsung.android.bixby.agent
+adb shell pm uninstall -k --user 0 com.samsung.android.bixby.wakeup
